@@ -1,0 +1,33 @@
+{
+  "name": "mediscan-admin-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "framer-motion": "^12.23.25",
+    "js-cookie": "^3.0.5",
+    "lucide-react": "^0.294.0",
+    "next": "^14.2.33",
+    "next-theme": "^0.1.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.68.0",
+    "recharts": "^3.5.1"
+  },
+  "devDependencies": {
+    "@next/swc-win32-x64-msvc": "^16.0.7",
+    "@types/js-cookie": "^3.0.6",
+    "@types/node": "^20.10.5",
+    "@types/react": "^18.2.45",
+    "@types/react-dom": "^18.2.18",
+    "autoprefixer": "^10.4.22",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^3.4.18",
+    "typescript": "^5.3.3"
+  }
+}
