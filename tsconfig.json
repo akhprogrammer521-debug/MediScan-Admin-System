@@ -15,8 +15,6 @@
     "incremental": true,
 
     "forceConsistentCasingInFileNames": true,
-    "ignoreDeprecations": "6.0",
-
     "baseUrl": ".",
     "paths": {
       "@/*": ["src/*"]
